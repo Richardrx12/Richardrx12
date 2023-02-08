@@ -23,6 +23,9 @@
 
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardrx12&layout=compact)](https://github.com/Richardrx12/github-readme-stats)
+
+
 
 ## Tecnologias que estão na minha mira
 <div>
