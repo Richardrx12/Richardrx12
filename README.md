@@ -9,6 +9,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-linhares-7717ab241/)
 
+### 👇 Da uma olhadinha nos meus projetos em React 
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/richardrx12)
+
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=Richardrx12&show_icons=true&theme=onedark)
 
 ## Tecnologias que estou utilizando e aprendendo
